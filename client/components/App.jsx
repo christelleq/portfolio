@@ -5,7 +5,7 @@ import About from './About'
 import Education from './Education'
 import Header from './Header'
 import Home from './Home'
-import Links from './Links'
+import Links from './Links/Links'
 import Nav from './Nav'
 import Projects from './Projects'
 
