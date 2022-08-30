@@ -12,17 +12,17 @@ import Projects from './Projects'
 
 function App() {
     return (
-        <>
-        <Header/>
-        <Nav/>
-        <Routes>
-            <Route path="/" element={<Home/>}/>
-            <Route path="/education" element={<Education/>}/>
-            <Route path="/projects" element={<Projects/>}/>
-            <Route path="/about" element={<About/>}/>
-        </Routes>
-        <Links/>
-        </>
+        <main className="h-screen flex flex-col justify-content-center">
+            <Header/>
+            <Nav/>
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+                <Route path="/education" element={<Education/>}/>
+                <Route path="/projects" element={<Projects/>}/>
+                <Route path="/about" element={<About/>}/>
+            </Routes>
+            <Links/>
+        </main>
     )
   }
   

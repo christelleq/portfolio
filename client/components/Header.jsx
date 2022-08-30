@@ -1,7 +1,11 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Header() {
     return (
-        <h1>Header</h1>
+        <header className="flex flex-col items-center pt-5 h-min">
+                <Link to="/" className="text-5xl font-medium">Christelle Quilang</Link>
+                <Link to="/" className="text-2xl">Software Developer</Link>
+        </header>
     )
 }
