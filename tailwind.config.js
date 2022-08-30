@@ -2,7 +2,7 @@ module.exports = {
     content: ['./server/**/*', './client/**/*.jsx'],
     theme: {
       fontFamily: {
-        sans: ['Darker Grotesque'],
+        sans: ['Lato'],
       },
       fontSize: {
         base: '1rem',
