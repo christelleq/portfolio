@@ -12,7 +12,7 @@ import Projects from './Projects'
 
 function App() {
     return (
-        <div className="h-screen grid justify-items-center">
+        <main className="h-screen flex flex-col justify-content-center">
             <Header/>
             <Nav/>
             <Routes>
@@ -22,7 +22,7 @@ function App() {
                 <Route path="/about" element={<About/>}/>
             </Routes>
             <Links/>
-        </div>
+        </main>
     )
   }
   
