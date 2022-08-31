@@ -12,7 +12,7 @@ import Projects from './Projects'
 
 function App() {
     return (
-        <main className="h-screen flex flex-col justify-content-center">
+        <main className="h-screen flex flex-col justify-content-center text-center">
             <Header/>
             <Nav/>
             <Routes>
