@@ -7,7 +7,7 @@ export default function Home() {
             <figure>
                 <img src="/server/public/images/giraffe-cropped.png" alt="Christelle Quilang" width="270"></img>
             </figure>
-            <p className="sm:max-w-[50%]">I am a Software Developer, recently graduated from Dev Academy Aotearoa's Web Development Bootcamp. My education includes Psychology and Philosophy at the University of Auckland, over 40 hours of training in Nonviolent Communication, and cultivating wisdom and healthy habits with the Optimize Coach program.  </p>
+            <p className="max-w-[93%] sm:max-w-[50%] md:max-w-[45%]">I am a Software Developer, recently graduated from Dev Academy Aotearoa's Web Development Bootcamp. My education includes Psychology and Philosophy at the University of Auckland, over 40 hours of training in Nonviolent Communication, and cultivating wisdom and healthy habits with the Optimize Coach program.  </p>
         </section>
     )
 }
