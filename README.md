@@ -45,3 +45,7 @@ Release Plan:
 1. React components use PascalCase.
 2. Reminded that React components can have children!
 3. Start. I didn't particularly feel like coding this day, unlike the last couple of days. I had at most a foggy vision for what I wanted to finish by the end of the day. I just started working anyway, and a sort of muscle memory kicked in and I ended up creating the skeletons for my projects section, which I realise are also skeletons for my education section :)
+
+### 02/09/22
+#### Learnings:
+1. Play, fun, empathy, and maintaining great relationships with loved ones are important for my energy and motivation :) 
