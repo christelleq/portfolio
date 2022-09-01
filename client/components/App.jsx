@@ -7,7 +7,7 @@ import Header from './Header'
 import Home from './Home'
 import Links from './Links/Links'
 import Nav from './Nav'
-import Projects from './Projects'
+import Projects from './Projects/Projects'
 
 
 function App() {
