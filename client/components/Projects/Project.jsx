@@ -1,6 +1,7 @@
 import React from "react";
 
-export default function Project({project, image, description, tech}) {
+export default function Project({project, image, children, filters}) {
+    console.log(children)
     return (
         <article className="flex flex-col items-center">
             <figure className="sm:w-[40%]">
@@ -8,7 +9,7 @@ export default function Project({project, image, description, tech}) {
             </figure>
             <h3 className="text-xl">{project}</h3>
             {/* tech stack */}
-            <p>{description}</p>
+            {children}
         </article>
     )
 }
