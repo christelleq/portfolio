@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Project({project, image, children, filters}) {
-    console.log(children)
     return (
         <article className="flex flex-col items-center">
             <figure className="w-[95%] sm:w-[60%] lg:w-[40%]">
