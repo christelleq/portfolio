@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function EducationArticle({education, place, image, children, skills}) {
+export default function EducationArticle({education, place, image, children}) {
     return (
         <article className="flex flex-col items-center">
             <img src={`/server/public/images/`+image+`.png`} alt={place+" logo"} className="w-[95%] sm:w-[60%] lg:w-[40%] justify-center	"/>

@@ -1,11 +1,15 @@
 import React from "react";
 import EducationArticle from "./EducationArticle";
+import Skills from "./Skills"
 
 export default function Education() {
+    // console.log(<Skills skills={['Full Stack Software Development', 'Teamwork', 'Agile', 'Mindfulness', 'Fast Learning']}/>)
     return (
         <section className="pt-5 space-y-12 pb-12 pt-4">
             <h3 className="text-2xl">Tertiary Education</h3>
-            <EducationArticle education="Web Development Bootcamp" place="Dev Academy Aotearoa" image="dev-academy" skills={['Full Stack Software Development', 'Teamwork', 'Agile', 'Mindfulness', 'Fast Learning']}></EducationArticle>
+            <EducationArticle education="Web Development Bootcamp" place="Dev Academy Aotearoa" image="dev-academy">
+                <Skills skills={['Full Stack Software Development', 'Teamwork', 'Agile', 'Mindfulness', 'Fast Learning']}/>
+            </EducationArticle>
             <EducationArticle education="Philosophy & Psychology" place="University of Auckland" image="uoa" skills={['Critical Thinking', 'Learning complex concepts', 'Leadership']}></EducationArticle>
 
             <h3 className="text-2xl">Training</h3>
