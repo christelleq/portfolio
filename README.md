@@ -8,7 +8,7 @@ Figma: https://www.figma.com/file/sz4e4HZja1kuRqoLS2SjKY/Portfolio-Site?node-id=
   
 Release Plan:
 - [X] Landing page with summary of me and social links.
-- [ ] Projects page with tech stack and learnings for each project.
+- [X] Projects page with tech stack and learnings for each project.
 - [X] Make website responsive, especially on mobile.
 - [ ] Education page.
 - [ ] About Me page.
