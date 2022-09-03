@@ -47,5 +47,13 @@ Release Plan:
 3. Start. I didn't particularly feel like coding this day, unlike the last couple of days. I had at most a foggy vision for what I wanted to finish by the end of the day. I just started working anyway, and a sort of muscle memory kicked in and I ended up creating the skeletons for my projects section, which I realise are also skeletons for my education section :)
 
 ### 02/09/22
+#### Obstacles / Difficulties:
+1. Creating React elements from an array.
+2. Motivation and energy levels. 
+
 #### Learnings:
 1. Play, fun, empathy, and maintaining great relationships with loved ones are important for my energy and motivation :) 
+2. Returning React elements straight from a forEach() loop doesn't work! I found out map() works in place of forEach(). I could also do this: https://codesource.io/how-to-use-foreach-loop-in-react/, but it seems map() would be more straightforward and have the same effect. Can I render an array of React elements? My guess is yes.
+
+#### My new computer arrived! 😌
+Thank you to my catalyst for all your help and support.
