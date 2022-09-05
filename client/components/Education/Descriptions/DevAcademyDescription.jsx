@@ -21,7 +21,7 @@ export default function DevAcademyDescription() {
         excellence in both technical and human skills.
       </p>
       <a
-        href="/server/public/files/Christelle_Dahiyag_Quilang_Graduation_Certificate.pdf"
+        href="/files/Christelle_Dahiyag_Quilang_Graduation_Certificate.pdf"
         target="_blank"
         rel="noreferrer"
         className="underline underline-offset-2 text-sky-600"
