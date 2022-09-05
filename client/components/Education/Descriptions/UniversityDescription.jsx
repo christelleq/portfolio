@@ -11,6 +11,10 @@ export default function UniversityDescription() {
         clarify, challenge, and deepen my understanding of complex concepts and
         topics.
       </p>
+      <p>
+        Trusted with leadership roles in clubs, including president, secretary,
+        and ambassadress.
+      </p>
     </section>
   )
 }
