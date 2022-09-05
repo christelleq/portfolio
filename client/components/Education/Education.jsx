@@ -14,7 +14,7 @@ export default function Education() {
         education="Web Development Bootcamp"
         place="Dev Academy Aotearoa"
         date="Apr 2022 - Jul 2022"
-        link="/server/public/files/Christelle_Dahiyag_Quilang_Graduation_Certificate.pdf"
+        link="https://devacademy.co.nz/"
         image="dev-academy"
       >
         <Skills
