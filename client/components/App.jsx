@@ -9,21 +9,21 @@ import Links from './Links/Links'
 import Nav from './Nav'
 import Projects from './Projects/Projects'
 
-
 function App() {
-    return (
-        <main className="h-screen flex flex-col justify-content-center text-center items-center">
-            <Header/>
-            <Nav/>
-            <Routes>
-                <Route path="/" element={<Home/>}/>
-                <Route path="/education" element={<Education/>}/>
-                <Route path="/projects" element={<Projects/>}/>
-                <Route path="/about" element={<About/>}/>
-            </Routes>
-            <Links/>
-        </main>
-    )
-  }
-  
-  export default App
+  return (
+    <main className="h-screen flex flex-col justify-content-center text-center items-center">
+      <Header />
+      <Nav />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/education" element={<Education />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/about" element={<About />} />
+        <Route path="*" element={<Home />} />
+      </Routes>
+      <Links />
+    </main>
+  )
+}
+
+export default App
