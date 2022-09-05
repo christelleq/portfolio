@@ -11,7 +11,9 @@ export default function PortfolioDescription() {
 
       <a
         href="https://github.com/christelleq/portfolio"
+        target="_blank"
         className="underline underline-offset-2 text-sky-600"
+        rel="noreferrer"
       >
         GitHub
       </a>
