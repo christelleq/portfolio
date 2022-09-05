@@ -10164,6 +10164,8 @@ function Xp() {
       v('a', {
         href: 'https://github.com/christelleq/portfolio',
         className: 'underline underline-offset-2 text-sky-600',
+        target: '_blank',
+        rel: 'noreferrer',
         children: 'GitHub',
       }),
     ],
@@ -10196,6 +10198,8 @@ function Jp() {
       v('a', {
         href: 'https://github.com/matai-2022/Team-Solar-System',
         className: 'underline underline-offset-2 text-sky-600',
+        target: '_blank',
+        rel: 'noreferrer',
         children: 'GitHub',
       }),
     ],
@@ -10223,6 +10227,8 @@ function Zp() {
       v('a', {
         href: 'https://github.com/matai-2022/sharingIsCaring',
         className: 'underline underline-offset-2 text-sky-600',
+        target: '_blank',
+        rel: 'noreferrer',
         children: 'GitHub',
       }),
     ],
