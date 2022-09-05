@@ -11,10 +11,6 @@ export default function UniversityDescription() {
         clarify, challenge, and deepen my understanding of complex concepts and
         topics.
       </p>
-      <p>
-        I also completed papers in mathematics, and complete with A grades
-        papers in first year programming and on the Māori world.
-      </p>
     </section>
   )
 }
