@@ -4,5 +4,5 @@ deployment:
     - export DEPLOYPATH=/home/xl3al9825mkr/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.20987dd5.css $DEPLOYPATH
-    - /bin/cp index.jsx $DEPLOYPATH
+    - /bin/cp index.7984e6eb.js $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
