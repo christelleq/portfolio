@@ -6,3 +6,4 @@ deployment:
     - /bin/cp server/public/dist/assets/build.css $DEPLOYPATH
     - /bin/cp server/public/dist/assets/build.js $DEPLOYPATH
     - /bin/cp -R server/public/images $DEPLOYPATH
+    - /bin/cp -R server/public/files $DEPLOYPATH
