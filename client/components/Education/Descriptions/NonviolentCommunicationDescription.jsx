@@ -13,11 +13,11 @@ export default function NonviolentCommunicationDescription() {
         </li>
       </ul>
       <p>
-        I practice Nonviolent Communication (NVC) because I found it effectively
-        provides emotional relief, transforms conflict into understanding, and
-        it's a great problem-solving tool. I've found that when we connect with
-        our needs, this enables us to 1) identify relevant goals, and 2) come up
-        with more effective strategies.
+        I practice Nonviolent Communication (NVC) because I've found it
+        effectively provides emotional relief, transforms conflict into
+        understanding, and it's a great problem-solving tool. I've found that
+        when we connect with our needs, this enables us to 1) identify relevant
+        goals, and 2) come up with more effective strategies.
       </p>
     </section>
   )

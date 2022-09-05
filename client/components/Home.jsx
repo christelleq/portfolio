@@ -20,10 +20,10 @@ export default function Home() {
       <p className="max-w-[93%] sm:max-w-[50%] md:max-w-[45%]">
         I am looking for work that maximises my learning and growth in software
         development, leadership, problem-solving, and learning itself; where
-        mentorship and learning resources are available. I want to create
-        meaningful, beautiful technology that serves communities. I want to have
-        fun! I want to work in a safe, supportive, and creative environment with
-        challenging work.
+        mentorship, feedback, and learning resources are available. I want to
+        create meaningful, beautiful technology that serves communities. I want
+        to have fun! I want to work in a safe, supportive, and creative
+        environment with challenging work.
       </p>
       <p className="max-w-[93%] sm:max-w-[50%] md:max-w-[45%]">
         Please feel free to contact me with the email provided below.

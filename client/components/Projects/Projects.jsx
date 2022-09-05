@@ -16,6 +16,7 @@ export default function Projects() {
             'Tailwind CSS',
             'Semantic HTML',
             'Vite',
+            'Responsive Web Design',
           ]}
         />
         <PortfolioDescription />
