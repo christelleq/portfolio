@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="h-5/6 pt-5">Welcome to my portfolio!</h1>
       <figure>
         <img
-          src="/server/public/images/giraffe-cropped.png"
+          src="/images/giraffe-cropped.png"
           alt="Christelle Quilang"
           width="270"
         ></img>
