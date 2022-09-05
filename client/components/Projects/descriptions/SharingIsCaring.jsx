@@ -18,8 +18,8 @@ export default function SharingIsCaringDescription() {
       <a
         href="https://github.com/matai-2022/sharingIsCaring"
         target="_blank"
-        className="underline underline-offset-2 text-sky-600"
         rel="noreferrer"
+        className="underline underline-offset-2 text-sky-600"
       >
         GitHub
       </a>

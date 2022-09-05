@@ -23,8 +23,8 @@ export default function SolarSystemDescription() {
       <a
         href="https://github.com/matai-2022/Team-Solar-System"
         target="_blank"
-        className="underline underline-offset-2 text-sky-600"
         rel="noreferrer"
+        className="underline underline-offset-2 text-sky-600"
       >
         GitHub
       </a>
