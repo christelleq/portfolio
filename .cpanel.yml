@@ -3,6 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/xl3al9825mkr/public_html/
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp /server/public/dist/assets/index.20987dd5.css $DEPLOYPATH
-    - /bin/cp /client/index.jsx $DEPLOYPATH
-    - /bin/cp -R /server/public/images $DEPLOYPATH
+    - /bin/cp index.20987dd5.css $DEPLOYPATH
+    - /bin/cp index.jsx $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
