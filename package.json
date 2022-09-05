@@ -1,5 +1,6 @@
 {
     "name": "christelle-quilang-portfolio",
+    "homepage": "https://christellequilang.com",
     "version": "1.0.0",
     "main": "server/index.js",
     "license": "MIT",
