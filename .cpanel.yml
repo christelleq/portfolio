@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/user/public_html/
-    - /bin/cp dist/index.html $DEPLOYPATH
-    - /bin/cp dist/assets/index.20987dd5.css $DEPLOYPATH
-    - /bin/cp dist/assets/index.7984e6eb.js $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp server/public/dist/index.html $DEPLOYPATH
+    - /bin/cp server/public/dist/assets/index.20987dd5.css $DEPLOYPATH
+    - /bin/cp server/public/dist/assets/index.7984e6eb.js $DEPLOYPATH
+    - /bin/cp -R server/public/images $DEPLOYPATH
