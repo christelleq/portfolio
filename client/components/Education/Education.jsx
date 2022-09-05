@@ -50,6 +50,7 @@ export default function Education() {
         education="Nonviolent Communication"
         place="Meditating Giraffe"
         date="Jul 2021 - Sep 2022"
+        link="https://meditatinggiraffe.co.nz/"
         image="meditating-giraffe"
       >
         <Skills
