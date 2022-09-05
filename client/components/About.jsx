@@ -51,10 +51,7 @@ export default function About() {
         </section>
 
         <figure className="flex flex-col pt-10">
-          <img
-            src="/server/public/images/giraffe.png"
-            alt="Christelle with a giraffe"
-          />
+          <img src="/images/giraffe.png" alt="Christelle with a giraffe" />
           <caption className="text-xs text-slate-600 leading-4 pt-1	">
             Christelle with a giraffe! The giraffe is the spirit animal of
             Nonviolent Communication. The giraffe has the biggest heart of all
@@ -73,16 +70,13 @@ export default function About() {
         </h3>
         <section className="grid grid-rows-1 md:grid-cols-3 items-center gap-2">
           <img
-            src="/server/public/images/book-the-speed-of-trust.png"
+            src="/images/book-the-speed-of-trust.png"
             alt="The Speed of Trust"
             className="justify-center"
           />
+          <img src="/images/book-essentialism.png" alt="Essentialism" />
           <img
-            src="/server/public/images/book-essentialism.png"
-            alt="Essentialism"
-          />
-          <img
-            src="/server/public/images/book-the-seven-habits.png"
+            src="/images/book-the-seven-habits.png"
             alt="The Seven Habits of Highly Effective People"
           />
         </section>
