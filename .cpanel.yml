@@ -5,4 +5,6 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp server/public/dist/assets/index.20987dd5.css $DEPLOYPATH
     - /bin/cp server/public/dist/assets/index.7984e6eb.js $DEPLOYPATH
+    - /bin/cp server/public/output.css $DEPLOYPATH
+    - /bin/cp client/index.jsx $DEPLOYPATH
     - /bin/cp -R server/public/images $DEPLOYPATH
