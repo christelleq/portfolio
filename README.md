@@ -10,8 +10,8 @@ Release Plan:
 - [X] Landing page with summary of me and social links.
 - [X] Projects page with tech stack and learnings for each project.
 - [X] Make website responsive, especially on mobile.
-- [ ] Education page.
-- [ ] About Me page.
+- [X] Education page.
+- [X] About Me page.
 - [ ] Tech stack filter (Projects page).
 - [ ] 3D version. Include loader.
 
