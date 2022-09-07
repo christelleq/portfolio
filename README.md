@@ -75,3 +75,18 @@ Nice problem-solving 🙏🏽 (me high-fiving myself). Note, I used empathy (par
 2. Naps are great. Coffee naps are great? I was very sleepy in the morning. After a coffee nap, I felt renewed, the clouds of sleepiness had passed. Joy! Maybe this is a great remedy for tired days, intense days. How do I get myself to nap when I'm not so tired and when I'm a little wired? Great sleeping conditions?! Cool, dark, and quiet.
 3. Play is sweeter after a good day's work.
 4. Maybe my motivation is low because I'm not getting as much challenge as I'd like (value in the motivation equation). I realise React and Tailwind CSS quickly became easy for me, and this project became repetitive, and didn't require much problem-solving nor lots of new learning after I created the projects section. Some strategies I thought of to remedy this: creating something that really pushes me, e.g. 3D version, working with colours and amping up the styling and design. I realise now expectancy has also been low -- I don't really know how this will really impact my employability, although I've been told it's a great idea. I'm now convinced my energy levels the last week from less sleep has really affected my motivation too. I remember, Optimize's Brian has expanded on the motivation equation: Motivation = **Energy** x ((Expectancy x Value) / (Impulsivity x Delay)). Maybe I just need more breaks! Definitely. More rest. For sure. This day I reconnected to how great it feels to get the rest you need, to feel an absence of sleepiness or tiredness. BREAKS.
+
+### 05/09/22 (Monday, day before Summer of Tech Meet and Greet)
+What a day. I finished my whole app at an acceptable level. Then I deployed it so that employers could check it out at or after the Summer of Tech Meet and Greet, to support my applications.
+
+#### Obstacles / Difficulties:
+1. DEPLOYING. I thought it would take 20 minutes. It took 12x my expectation - 4 hours. I stayed up until 1am. This was like trying to put a third of three similar puzzles together. I still don't have it fully figured out.
+2. Vite makes things different, so it was hard to find tutorials for using Vite with cPanel.
+
+#### Learnings:
+1. Deploying. I bought my domain name, christellequilang.com with GoDaddy, so I decided to host with them too. I used cPanel, using the repository service. I did it, after 30 commits and reading lots of error messages and playing with the HTML in the DOM. I learned...
+- What works in development doesn't necessarily translate in deployment.
+- I have a lot of knowledge gaps. I don't understand the difference between development and production, and I don't understand how deployment works, especially with cPanel. 
+- Survey your options before buying in! Was GoDaddy the best option?
+- I can experiment with the DOM and the changes will appear right in front of me! This means I don't have to make lots of commits if I suspect the issue is in the HTML document.
+2. I found motivation again! Was it the challenge of deploying? Was it because I could imagine more clearly the practical application of this portfolio since it was the day before the Meet and Greet? 
