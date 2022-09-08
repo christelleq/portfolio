@@ -4,7 +4,7 @@ export default function CertificateArticle({ name, link }) {
   return (
     <article className="flex flex-col items-center pb-2">
       <a
-        href={`/files/` + link}
+        href={link}
         target="_blank"
         rel="noreferrer"
         className="flex flex-col items-center"
