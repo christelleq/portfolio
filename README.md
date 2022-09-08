@@ -111,3 +111,13 @@ What a day. Thank you so much to Summer of Tech for facilitating these opportuni
 2. ? Create a skills and evidence section. 
 3. Revamp my personal statement to say who I want to be and why. Thank you to Summer of Tech's John Clegg for the CV advice.
 4. ? Fix my website to fully function with the cPanel deployment.
+
+### 08/09/22
+
+#### Learnings:
+1. I learned how to deploy with Firebase, with success! It's so much easier than cPanel. 
+2. Google, google, google. Thank you Vite docs and JohnsonScript from YouTube.
+
+#### Next Steps:
+1. Edit content to be more... fun? informative? accurate? impactful?
+2. Deploy the Solar System!!!
