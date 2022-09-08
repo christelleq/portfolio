@@ -1,9 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/xl3al9825mkr/public_html/
-    - /bin/cp server/public/dist/index.html $DEPLOYPATH
-    - /bin/cp server/public/dist/assets/build.css $DEPLOYPATH
-    - /bin/cp server/public/dist/assets/build.js $DEPLOYPATH
-    - /bin/cp -R server/public/images $DEPLOYPATH
-    - /bin/cp -R server/public/files $DEPLOYPATH
