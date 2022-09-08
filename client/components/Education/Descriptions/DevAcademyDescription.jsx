@@ -1,4 +1,5 @@
 import React from 'react'
+import devAcademyGraduationCertificate from '../../../../server/public/files/Christelle_Dahiyag_Quilang_Graduation_Certificate.pdf'
 
 export default function DevAcademyDescription() {
   return (
@@ -21,7 +22,7 @@ export default function DevAcademyDescription() {
         excellence in both technical and human skills.
       </p>
       <a
-        href="/files/Christelle_Dahiyag_Quilang_Graduation_Certificate.pdf"
+        href={devAcademyGraduationCertificate}
         target="_blank"
         rel="noreferrer"
         className="underline underline-offset-2 text-sky-600"
