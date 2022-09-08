@@ -6,7 +6,7 @@ import OptimizeDescription from './Descriptions/OptimizeDescription'
 import UniversityDescription from './Descriptions/UniversityDescription'
 import EducationArticle from './EducationArticle'
 import Skills from './Skills'
-import pdf from '../../../server/public/files/Foundations_of_Cloud_Computing.pdf'
+import foundationsOfCloudComputing from '../../../server/public/files/Foundations_of_Cloud_Computing.pdf'
 
 export default function Education() {
   return (
@@ -80,7 +80,10 @@ export default function Education() {
 
       <section>
         <h3 className="text-2xl pb-4">Certificates</h3>
-        <CertificateArticle name="Foundations of Cloud Computing" link={pdf} />
+        <CertificateArticle
+          name="Foundations of Cloud Computing"
+          link={foundationsOfCloudComputing}
+        />
       </section>
     </section>
   )
