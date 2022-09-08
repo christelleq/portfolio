@@ -50,6 +50,7 @@
         "camera-controls": "^1.35.0",
         "esbuild": "^0.14.49",
         "express": "^4.17.2",
+        "firebase": "^9.9.4",
         "pg": "^8.7.1",
         "playwright": "^1.23.4",
         "postcss": "^8.4.14",
