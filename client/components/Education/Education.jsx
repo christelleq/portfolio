@@ -80,10 +80,7 @@ export default function Education() {
 
       <section>
         <h3 className="text-2xl pb-4">Certificates</h3>
-        <CertificateArticle
-          name="Foundations of Cloud Computing with Codecademy"
-          link={pdf}
-        />
+        <CertificateArticle name="Foundations of Cloud Computing" link={pdf} />
       </section>
     </section>
   )
