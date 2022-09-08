@@ -1,4 +1,5 @@
 import React from 'react'
+import CertificateArticle from './CertificateArticle'
 import DevAcademyDescription from './Descriptions/DevAcademyDescription'
 import NonviolentCommunicationDescription from './Descriptions/NonviolentCommunicationDescription'
 import OptimizeDescription from './Descriptions/OptimizeDescription'
@@ -77,8 +78,11 @@ export default function Education() {
       </EducationArticle>
 
       <section>
-        <h3 className="text-2xl">Certificates</h3>
-        <p>In progress: Foundations of Cloud Computing with Codecademy</p>
+        <h3 className="text-2xl pb-4">Certificates</h3>
+        <CertificateArticle
+          name="Foundations of Cloud Computing with Codecademy"
+          link="Foundations_of_Cloud_Computing.pdf"
+        />
       </section>
     </section>
   )
