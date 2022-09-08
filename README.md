@@ -10,8 +10,8 @@ Release Plan:
 - [X] Landing page with summary of me and social links.
 - [X] Projects page with tech stack and learnings for each project.
 - [X] Make website responsive, especially on mobile.
-- [ ] Education page.
-- [ ] About Me page.
+- [X] Education page.
+- [X] About Me page.
 - [ ] Tech stack filter (Projects page).
 - [ ] 3D version. Include loader.
 
@@ -75,3 +75,39 @@ Nice problem-solving 🙏🏽 (me high-fiving myself). Note, I used empathy (par
 2. Naps are great. Coffee naps are great? I was very sleepy in the morning. After a coffee nap, I felt renewed, the clouds of sleepiness had passed. Joy! Maybe this is a great remedy for tired days, intense days. How do I get myself to nap when I'm not so tired and when I'm a little wired? Great sleeping conditions?! Cool, dark, and quiet.
 3. Play is sweeter after a good day's work.
 4. Maybe my motivation is low because I'm not getting as much challenge as I'd like (value in the motivation equation). I realise React and Tailwind CSS quickly became easy for me, and this project became repetitive, and didn't require much problem-solving nor lots of new learning after I created the projects section. Some strategies I thought of to remedy this: creating something that really pushes me, e.g. 3D version, working with colours and amping up the styling and design. I realise now expectancy has also been low -- I don't really know how this will really impact my employability, although I've been told it's a great idea. I'm now convinced my energy levels the last week from less sleep has really affected my motivation too. I remember, Optimize's Brian has expanded on the motivation equation: Motivation = **Energy** x ((Expectancy x Value) / (Impulsivity x Delay)). Maybe I just need more breaks! Definitely. More rest. For sure. This day I reconnected to how great it feels to get the rest you need, to feel an absence of sleepiness or tiredness. BREAKS.
+
+### 05/09/22 (Monday, day before Summer of Tech Meet and Greet)
+The final stretch. I finished my whole app at an acceptable level. Then I deployed it so that employers could check it out at or after the Summer of Tech Meet and Greet, to support my applications.
+
+#### Obstacles / Difficulties:
+1. DEPLOYING. I thought it would take 20 minutes. It took 12x my expectation - 4 hours. I stayed up until 1am. This was like trying to put a third of three similar puzzles together. I still don't have it fully figured out.
+2. Vite makes things different, so it was hard to find tutorials for using Vite with cPanel.
+
+#### Learnings:
+1. Deploying. I bought my domain name, christellequilang.com with GoDaddy, so I decided to host with them too. I used cPanel, using the repository service. I did it, after 30 commits and reading lots of error messages and playing with the HTML in the DOM. I learned...
+- What works in development doesn't necessarily translate in deployment.
+- I have a lot of knowledge gaps. I don't understand the difference between development and production, and I don't understand how deployment works, especially with cPanel. 
+- Survey your options before buying in! Was GoDaddy the best option?
+- I can experiment with the DOM and the changes will appear right in front of me! This means I don't have to make lots of commits if I suspect the issue is in the HTML document.
+2. I found motivation again! Was it the challenge of deploying? Was it because I could imagine more clearly the practical application of this portfolio since it was the day before the Meet and Greet? 
+
+### 06/09/22 (Tuesday, day of the Summer of Tech Meet and Greet)
+What a day. Thank you so much to Summer of Tech for facilitating these opportunities. Furthermore for increasing the luck for those of us who worked at the event, since we could interact with employers before and after the event. 
+
+#### What went well?
+1. Made some good and great connections. 
+2. Gained information to help with potentially making decisions.
+3. Met some awesome people.
+4. This event really energised me. I felt I was in my element. It also filled UP my extroverted cup! Yay!
+5. It feels really nice when you're being yourself and people like that!
+
+#### What would I do differently?
+1. Start creating my portfolio ASAP. Why? To avoid staying up late. If possible, to have the time to learn how things work.
+2. Maintain amazing sleep habits and sleep schedule. Why? To show up at my fullest, best, most energetic, most grounded.
+3. Do more research on companies over time, keep track of new jobs on Summer of Tech, and incrementally write notes on each company and role. Why? To feel more prepared and ask questions more specific to the company.
+
+#### Next Steps:
+1. Looking back, I really enjoyed this process of creating my portfolio. I want to create more and reflect more. I realise, Optimize, Nonviolent Communication, and my goals are very dear to me. I realise now that it's quite vulnerable for me to talk about these things, albeit genuine. Talking about these did spark a fire for amping up my integrity to my ideals, values, and aspirations. I want to create a personal blog on my health / optimisation journey. Why? To create accountability for me to be consistent on the habits that will gain me the Heroic / Optimize Coach certification. To be an exemplar for anyone who wants to go in the same direction and find inspiration from my actions and results. How can you be an exemplar if no one can see what you do? To reflect more, I really enjoy the process itself; gets the brain juices flowing, I feel more engaged. For fun!
+2. ? Create a skills and evidence section. 
+3. Revamp my personal statement to say who I want to be and why. Thank you to Summer of Tech's John Clegg for the CV advice.
+4. ? Fix my website to fully function with the cPanel deployment.
