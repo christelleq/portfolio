@@ -1364,12 +1364,12 @@ video {
   padding-bottom: 0.25rem;
 }
 
-.pr-3\.5 {
-  padding-right: 0.875rem;
-}
-
 .pb-4 {
   padding-bottom: 1rem;
+}
+
+.pr-3\.5 {
+  padding-right: 0.875rem;
 }
 
 .text-left {
@@ -1580,31 +1580,6 @@ video {
 
 .\[z\:\3\FFFD\17\FFFDg\FFFD\] {
   z: ��g�;
-}
-
-.hover\:text-sky-600:hover {
-  --tw-text-opacity: 1;
-  color: rgb(2 132 199 / var(--tw-text-opacity));
-}
-
-.hover\:text-blue-600:hover {
-  --tw-text-opacity: 1;
-  color: rgb(37 99 235 / var(--tw-text-opacity));
-}
-
-.hover\:text-blue-500:hover {
-  --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
-}
-
-.hover\:text-sky-500:hover {
-  --tw-text-opacity: 1;
-  color: rgb(14 165 233 / var(--tw-text-opacity));
-}
-
-.hover\:underline:hover {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
 }
 
 @media (min-width: 640px) {

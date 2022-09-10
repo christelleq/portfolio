@@ -1,15 +1,12 @@
 import React from 'react'
+import giraffeCropped from '../../server/public/images/giraffe-cropped.png'
 
 export default function Home() {
   return (
     <section className="flex flex-col items-center pt-5 space-y-3.5">
       <h1 className="h-5/6 pt-5">Welcome to my portfolio!</h1>
       <figure>
-        <img
-          src="/images/giraffe-cropped.png"
-          alt="Christelle Quilang"
-          width="270"
-        ></img>
+        <img src={giraffeCropped} alt="Christelle Quilang" width="270"></img>
       </figure>
       <p className="max-w-[93%] sm:max-w-[50%] md:max-w-[45%]">
         I am a Software Developer, recently graduated from Dev Academy
