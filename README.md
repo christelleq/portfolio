@@ -121,3 +121,12 @@ What a day. Thank you so much to Summer of Tech for facilitating these opportuni
 #### Next Steps:
 1. Edit content to be more... fun? informative? accurate? impactful?
 2. Deploy the Solar System!!!
+
+### 11/09/22
+
+#### Obstacles / Difficulties:
+1. Getting images to show up on all browsers seemed too hard. In the last two days, I googled about why my images won't show on Safari -- the answers were complex, too complex. This day I realised it didn't work on Firefox either, so I googled whether Firebase works on all browsers, if png is supported by all browsers; I looked at the DOM, tried to get the images to open in a new tab, and then I remembered about how I'd imported my PDFs...
+
+#### Learnings:
+1. How to get images to show up on all browsers AND during development. Import images!
+2. When troubleshooting something that you want to put in the too hard basket, just **engaging with the problem** can take you a long way. It's the first step!
