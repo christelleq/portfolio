@@ -1,4 +1,8 @@
 import React from 'react'
+import giraffe from '../../server/public/images/giraffe.png'
+import theSpeedOfTrust from '../../server/public/images/book-the-speed-of-trust.png'
+import essentialism from '../../server/public/images/book-essentialism.png'
+import theSevenHabits from '../../server/public/images/book-the-seven-habits.png'
 
 export default function About() {
   return (
@@ -51,7 +55,7 @@ export default function About() {
         </section>
 
         <figure className="flex flex-col pt-10">
-          <img src="/images/giraffe.png" alt="Christelle with a giraffe" />
+          <img src={giraffe} alt="Christelle with a giraffe" />
           <caption className="text-xs text-slate-600 leading-4 pt-1	">
             Christelle with a giraffe! The giraffe is the spirit animal of
             Nonviolent Communication. The giraffe has the biggest heart of all
@@ -70,13 +74,13 @@ export default function About() {
         </h3>
         <section className="grid grid-rows-1 md:grid-cols-3 items-center gap-2">
           <img
-            src="/images/book-the-speed-of-trust.png"
+            src={theSpeedOfTrust}
             alt="The Speed of Trust"
             className="justify-center"
           />
-          <img src="/images/book-essentialism.png" alt="Essentialism" />
+          <img src={essentialism} alt="Essentialism" />
           <img
-            src="/images/book-the-seven-habits.png"
+            src={theSevenHabits}
             alt="The Seven Habits of Highly Effective People"
           />
         </section>

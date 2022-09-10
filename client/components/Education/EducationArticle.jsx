@@ -16,7 +16,7 @@ export default function EducationArticle({
         rel="noreferrer"
         className="flex flex-col items-center w-52"
       >
-        <img src={`/images/` + image + `.png`} alt={place + ' logo'} />
+        <img src={image} alt={place + ' logo'} />
       </a>
       <h4 className="text-xl">{education}</h4>
       <h5 className="text-grey-900">{place}</h5>

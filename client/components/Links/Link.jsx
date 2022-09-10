@@ -1,14 +1,9 @@
 import React from 'react'
 
-export default function Link({ link, name }) {
+export default function Link({ link, image, name }) {
   return (
     <a href={link} target="_blank" rel="noreferrer">
-      <img
-        src={`/images/` + name + `.png`}
-        alt={name + ` link`}
-        width="40"
-        className="pr-3.5"
-      />
+      <img src={image} alt={name + ` link`} width="40" className="pr-3.5" />
     </a>
   )
 }

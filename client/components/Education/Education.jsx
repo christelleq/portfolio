@@ -7,6 +7,10 @@ import UniversityDescription from './Descriptions/UniversityDescription'
 import EducationArticle from './EducationArticle'
 import Skills from './Skills'
 import foundationsOfCloudComputing from '../../../server/public/files/Foundations_of_Cloud_Computing.pdf'
+import devAcademy from '../../../server/public/images/dev-academy.png'
+import uoa from '../../../server/public/images/uoa.png'
+import meditatingGiraffe from '../../../server/public/images/meditating-giraffe.png'
+import heroicCoach from '../../../server/public/images/heroic-coach.png'
 
 export default function Education() {
   return (
@@ -17,7 +21,7 @@ export default function Education() {
         place="Dev Academy Aotearoa"
         date="Apr 2022 - Jul 2022"
         link="https://devacademy.co.nz/"
-        image="dev-academy"
+        image={devAcademy}
       >
         <Skills
           skills={[
@@ -35,7 +39,7 @@ export default function Education() {
         education="Philosophy & Psychology"
         place="University of Auckland"
         date="Feb 2017 - Nov 2021"
-        image="uoa"
+        image={uoa}
       >
         <Skills
           skills={[
@@ -53,7 +57,7 @@ export default function Education() {
         place="Meditating Giraffe"
         date="Jul 2021 - Sep 2022"
         link="https://meditatinggiraffe.co.nz/"
-        image="meditating-giraffe"
+        image={meditatingGiraffe}
       >
         <Skills
           skills={['Empathy', 'Active listening', 'Effective communication']}
@@ -66,7 +70,7 @@ export default function Education() {
         place="Heroic Coach"
         date="Jan 2021 - Present"
         link="https://christelle--heroicenterprises.thrivecart.com/optimize-premium/"
-        image="heroic-coach"
+        image={heroicCoach}
       >
         <Skills
           skills={[
