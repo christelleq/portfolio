@@ -11,6 +11,7 @@ import devAcademy from '../../../server/public/images/dev-academy.png'
 import uoa from '../../../server/public/images/uoa.png'
 import meditatingGiraffe from '../../../server/public/images/meditating-giraffe.png'
 import heroicCoach from '../../../server/public/images/heroic-coach.png'
+import understandingDataEngineering from '../../../server/public/files/Understanding_Data_Engineering.pdf'
 
 export default function Education() {
   return (
@@ -89,6 +90,12 @@ export default function Education() {
           link={foundationsOfCloudComputing}
           date={'Sep 2022'}
           length={'1h'}
+        />
+        <CertificateArticle
+          name="Understanding Data Engineering"
+          link={understandingDataEngineering}
+          date={'Sep 2022'}
+          length={'2h'}
         />
       </section>
     </section>
