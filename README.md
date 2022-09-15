@@ -135,6 +135,7 @@ What a day. Thank you so much to Summer of Tech for facilitating these opportuni
 
 #### Obstacles / Difficulties:
 1. Design choices. Font sizes, hover color. I could take a quick design / UI / UX course?
+2. Run npm ci && npm run build failure. "Could not resolve './Descriptions/PortfolioDescription' from client/components/Projects/Projects.jsx" -- Why? What does this even do?
 
 #### Learnings:
 1. npm run build before deploying!
