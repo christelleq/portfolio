@@ -4,11 +4,14 @@ import PortfolioDescription from './Descriptions/PortfolioDescription'
 import SolarSystemDescription from './Descriptions/SolarSystemDescription'
 import SharingIsCaringDescription from './Descriptions/SharingIsCaring'
 import Filters from './Filters'
+import portfolio from '../../../server/public/images/portfolio.png'
+import solarSystem from '../../../server/public/images/solar-system.png'
+import sharingIsCaring from '../../../server/public/images/sharing-is-caring.png'
 
 export default function Projects() {
   return (
     <section className="pt-5 space-y-12 pb-12">
-      <Project project="Portfolio" image="portfolio">
+      <Project project="Portfolio" image={portfolio}>
         <Filters
           filters={[
             'Solo Project',
@@ -24,7 +27,7 @@ export default function Projects() {
 
       <Project
         project="3D Solar System"
-        image="solar-system"
+        image={solarSystem}
         description="afkjdsfngk"
       >
         <Filters
@@ -35,7 +38,7 @@ export default function Projects() {
 
       <Project
         project="Sharing is Caring"
-        image="sharing-is-caring"
+        image={sharingIsCaring}
         description="afkjdsfngk"
       >
         <Filters
