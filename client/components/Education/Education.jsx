@@ -87,6 +87,8 @@ export default function Education() {
         <CertificateArticle
           name="Foundations of Cloud Computing"
           link={foundationsOfCloudComputing}
+          date={'Sep 2022'}
+          length={'1h'}
         />
       </section>
     </section>

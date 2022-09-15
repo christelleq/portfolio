@@ -1,18 +1,25 @@
 import React from 'react'
 
-export default function CertificateArticle({ name, link }) {
+export default function CertificateArticle({
+  name,
+  link,
+  date,
+  place,
+  length,
+}) {
   return (
     <article className="flex flex-col items-center pb-2">
       <a
         href={link}
         target="_blank"
         rel="noreferrer"
-        className="flex flex-col items-center"
+        className="flex flex-row space-x-2 items-center text-align-bottom"
       >
-        <h4 className="">{name}</h4>
+        <p className="text-xl">{name}</p>
+        <p className="text-slate-600">{date}</p>
+        {/* <p>{place}</p> */}
+        <p className="text-slate-600">{length}</p>
       </a>
-      {/* <h5 className="text-grey-900">{place}</h5>
-      <p className="text-grey-900">{date}</p> */}
     </article>
   )
 }
