@@ -130,3 +130,12 @@ What a day. Thank you so much to Summer of Tech for facilitating these opportuni
 #### Learnings:
 1. How to get images to show up on all browsers AND during development. Import images!
 2. When troubleshooting something that you want to put in the too hard basket, just **engaging with the problem** can take you a long way. It's the first step!
+
+### 15/09/22
+
+#### Obstacles / Difficulties:
+1. Design choices. Font sizes, hover color. I could take a quick design / UI / UX course?
+
+#### Learnings:
+1. npm run build before deploying!
+2. I remembered about <span> HTML elements! Nifty, more semantically accurate tags. (Right?)
