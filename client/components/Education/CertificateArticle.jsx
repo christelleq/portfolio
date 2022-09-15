@@ -13,12 +13,18 @@ export default function CertificateArticle({
         href={link}
         target="_blank"
         rel="noreferrer"
-        className="flex flex-row space-x-2 items-center text-align-bottom"
+        className="flex items-center text-align-bottom"
       >
-        <p className="text-xl">{name}</p>
-        <p className="text-slate-600">{date}</p>
-        {/* <p>{place}</p> */}
-        <p className="text-slate-600">{length}</p>
+        <p className="text-xl space-x-1 group">
+          <span className="group-hover:text-sky-600">{name}</span>{' '}
+          <span className="group-hover:text-sky-600/50 text-gray-500 text-lg font-thin">
+            {date}
+          </span>
+          {'  '}
+          <span className="group-hover:text-sky-600/50 text-gray-500 text-lg font-thin">
+            {length}
+          </span>
+        </p>
       </a>
     </article>
   )
