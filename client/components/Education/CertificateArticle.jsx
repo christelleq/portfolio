@@ -21,9 +21,9 @@ export default function CertificateArticle({
             {date}
           </span>
           {'  '}
-          <span className="group-hover:text-sky-600/50 text-gray-500 text-lg font-thin">
+          {/* <span className="group-hover:text-sky-600/50 text-gray-500 text-lg font-thin">
             {length}
-          </span>
+          </span> */}
         </p>
       </a>
     </article>
