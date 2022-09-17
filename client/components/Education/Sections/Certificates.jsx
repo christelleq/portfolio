@@ -19,6 +19,9 @@ export default function CertificatesSection() {
         date={'Sep 2022'}
         length={'2h'}
       />
+      <article>
+        <p>Coming soon: Learn Python 3</p>
+      </article>
     </section>
   )
 }
