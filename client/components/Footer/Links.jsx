@@ -6,7 +6,7 @@ import mail from '../../../server/public/images/mail.png'
 
 export default function Links() {
   return (
-    <footer className="flex flex-row pb-20 mt-7">
+    <section className="flex flex-row pb-7 pt-20 justify-center">
       <Link
         name="github"
         link="https://github.com/christelleq"
@@ -22,6 +22,6 @@ export default function Links() {
         link="mailto:christellequilang@protonmail.com"
         image={mail}
       />
-    </footer>
+    </section>
   )
 }

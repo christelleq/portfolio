@@ -5,7 +5,7 @@ import About from './About'
 import Education from './Education/Education'
 import Header from './Header'
 import Home from './Home'
-import Links from './Links/Links'
+import Footer from './Footer/Footer'
 import Nav from './Nav'
 import Projects from './Projects/Projects'
 
@@ -21,7 +21,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="*" element={<Home />} />
       </Routes>
-      <Links />
+      <Footer />
     </main>
   )
 }
