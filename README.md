@@ -1,4 +1,8 @@
 # Portfolio
+Christelle Quilang's portfolio website: christellequilang.com
+
+## Tech Stack and Features
+React | JavaScript | Semantic HTML | Tailwind CSS | [Vite](https://vitejs.dev/) | Node.js | Responsive web design
 
 ## Planning
 Figma: https://www.figma.com/file/sz4e4HZja1kuRqoLS2SjKY/Portfolio-Site?node-id=0%3A1
