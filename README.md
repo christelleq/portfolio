@@ -4,6 +4,9 @@ Christelle Quilang's portfolio website: christellequilang.com
 ## Tech Stack and Features
 React | JavaScript | Semantic HTML | Tailwind CSS | [Vite](https://vitejs.dev/) | Node.js | Responsive web design | Git | GitHub
 
+## Features coming this October 2022:
+Test Driven Development | Atomic Design
+
 ## Planning
 Figma: https://www.figma.com/file/sz4e4HZja1kuRqoLS2SjKY/Portfolio-Site?node-id=0%3A1
   - wireframes
@@ -144,3 +147,8 @@ What a day. Thank you so much to Summer of Tech for facilitating these opportuni
 #### Learnings:
 1. npm run build before deploying!
 2. I remembered about <span> HTML elements! Nifty, more semantically accurate tags. (Right?)
+
+### 15/10/22
+
+#### Learnings:
+1. Atomic design would make my web design more consistent. Thank you [andela.com](https://andela.com/insights/structuring-your-react-application-atomic-design-principles/). Thank you PwC job ad for catalysing me to take a closer look into atomic design. Atomic design makes so much sense. I realise my website could look more consistent if the headings in each page (education, projects, about) had the same size, padding, etc. That's just one example. This would also be super DRY. 100% want to change my website to be totally atomic.
